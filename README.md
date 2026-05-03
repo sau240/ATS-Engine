@@ -2,7 +2,8 @@
 # 💫 ATS Resume Checker
 
 Yo 👋 I'm Saurav, a B.Tech student specializing in AI & ML, MERN, and Data Science. This project is an intelligent **ATS Resume Checker** designed to help candidates optimize their resumes for Applicant Tracking Systems using AI-driven insights.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/717dc678-2bb9-4500-a7b6-5d4352cafdcd" />
+
+<img width="1325" height="834" alt="image" src="https://github.com/user-attachments/assets/5bf73ea7-193f-4a2a-ac9b-1bd3ba5cb809" />
 
 ---
 
